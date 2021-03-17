@@ -1,0 +1,52 @@
+{
+  "name": "@fwork/table-custom",
+  "version": "v3.2.3",
+  "description": "FWork Table",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "css",
+    "es",
+    "lib",
+    "umd"
+  ],
+  "scripts": {
+    "build": "nwb build-react-component --copy-files",
+    "clean": "nwb clean-module",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "i18next": "^19.0.2",
+    "i18next-browser-languagedetector": "^4.0.1",
+    "react-sortable-hoc": "^1.11.0"
+  },
+  "peerDependencies": {
+    "react": "16.x"
+  },
+  "devDependencies": {
+    "@fwork/frontend-helper": "https://github.com/hienmx95/frontend-helper.git",
+    "antd": "^3.26.4",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0",
+    "eslint-plugin-react": "^7.17.0",
+    "nwb": "^0.23.0",
+    "react": "15.6.1",
+    "react-dom": "15.6.1",
+    "react-hot-loader": "^4.12.18",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "author": "damnn",
+  "homepage": "https://118.68.218.91/fpt.work/package/table-package",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://118.68.218.91/fpt.work/package/table-package"
+  },
+  "keywords": [
+    "react-component"
+  ]
+}

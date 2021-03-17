@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6" height="6" viewBox="0 0 6 6">
+    <defs>
+        <style>
+            .cls-1{fill:#5c6a82}
+        </style>
+    </defs>
+    <path id="icon_closeTag" d="M5.77 4.662A.784.784 0 1 1 4.662 5.77L3 4.108 1.337 5.77A.784.784 0 0 1 .229 4.662L1.891 3 .229 1.338A.784.784 0 0 1 1.337.23L3 1.892 4.662.23A.784.784 0 0 1 5.77 1.338L4.108 3z" class="cls-1"/>
+</svg>
